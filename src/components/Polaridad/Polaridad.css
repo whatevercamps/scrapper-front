@@ -1,0 +1,19 @@
+.sideNeg{
+    background-color: #FF6562;
+    height: 14px;
+}
+
+
+.sidePos{
+    background-color: #00C07F;
+    height: 14px;
+}
+
+.contSideNeg {
+    padding-right: 1px;
+}
+
+
+.contSidePos {
+    padding-left: 1px;
+}

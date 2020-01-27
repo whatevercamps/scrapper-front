@@ -1,0 +1,16 @@
+
+.marker {
+    width: 100px;
+    height: 100px;
+    display: block;  
+}
+
+.pin {
+    width: 1px;
+    height: 1px;
+    /* margin-left: -8px;
+    margin-top: -8px; */
+    background: rgba(5, 124, 255, 1);    
+    border: .5px solid #FFF;
+    border-radius: 50%;
+}

@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b3d983b.chunk.css",
+    "main.js": "/static/js/main.a549f7ce.chunk.js",
+    "main.js.map": "/static/js/main.a549f7ce.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.3cecf958.chunk.css": "/static/css/2.3cecf958.chunk.css",
+    "static/js/2.6a4c7ba9.chunk.js": "/static/js/2.6a4c7ba9.chunk.js",
+    "static/js/2.6a4c7ba9.chunk.js.map": "/static/js/2.6a4c7ba9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5da396998f03fc163fe4018275a6c881.js": "/precache-manifest.5da396998f03fc163fe4018275a6c881.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.3cecf958.chunk.css.map": "/static/css/2.3cecf958.chunk.css.map",
+    "static/css/main.9b3d983b.chunk.css.map": "/static/css/main.9b3d983b.chunk.css.map",
+    "static/media/pe-icon-7-stroke.css": "/static/media/Pe-icon-7-stroke.c45f7de0.svg",
+    "static/media/Twitter_Bird.svg": "/static/media/Twitter_Bird.923455be.svg",
+    "static/media/en.svg": "/static/media/en.18a56460.svg",
+    "static/media/es2.svg": "/static/media/es2.a35747c0.svg",
+    "static/media/face-3.jpg": "/static/media/face-3.ce7a6b79.jpg",
+    "static/media/fr2.svg": "/static/media/fr2.ca86d5be.svg",
+    "static/media/bootstrap.min.css": "/static/media/glyphicons-halflings-regular.fa277232.woff",
+    "static/media/por2.svg": "/static/media/por2.94e54eb2.svg",
+    "static/media/sidebar-3.jpg": "/static/media/sidebar-3.34535b95.jpg"
+  }
+}

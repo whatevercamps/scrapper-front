@@ -1,0 +1,68 @@
+.tweet_background {
+    background-color: #ffffff;
+    padding-left: 21px;
+    padding-top: 19px;
+    padding-right: 24px;
+    padding-bottom: 19px;
+}
+
+.user_photo {
+    width: 40px
+}
+
+.user_info {
+    margin-top: 4px !important;
+    line-height: .8;
+}
+
+.screen_name {
+    margin-top: 3px !important;
+}
+
+.date {
+    width: 454.7px;
+    height: 17px;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #6a7783;
+    margin-left: 75px;
+    margin-top: 12px;
+}
+
+.icons {
+    margin-left: 75px;
+}
+
+.iconandnumber {
+    margin-right: 11px;
+}
+
+.icon {
+    margin-right: 0rem;
+}
+
+.replies {
+    width: 8px;
+    height: 17px;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #6a7783;
+}
+
+
+.tweetPolaridad{
+    top: 0;
+    right: 0;
+    display: inline-flex;
+    width: 100%;
+}

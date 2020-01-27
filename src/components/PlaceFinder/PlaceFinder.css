@@ -1,0 +1,57 @@
+.form-group{
+    width:250px;  /*as you want*/
+    position:relative;
+    padding:0px;
+    margin:0px;
+    border-bottom: 0;
+   }
+
+   .geosuggest__suggests--hidden {
+    max-height: 0;
+    overflow: hidden;
+    border-width: 0;
+  }
+   .geosuggest__suggests{
+    z-index: 1000;
+    position: absolute;
+    border-radius: 5px 5px 5px 5px;
+    -moz-border-radius: 5px 5px 5px 5px;
+    -webkit-border-radius: 5px 5px 5px 5px;
+    border: 1px solid #e0e0e0;
+    border-top: 0;
+    padding: 0;
+   }
+   ul.suggestions{
+    width:100%; /* its width according to input width */
+    border:1px solid #ccc;
+    height:auto;
+    display:none;
+    padding:0px;
+    margin:0px;
+   }
+   /* if you want style so that's why i use "li a" also */
+  ul.geosuggest__suggests li, 
+  ul.geosuggest__suggests li a{
+    background-color:#fff;
+    color:#000;
+    font-size:12px; /* according to your requirement */
+    font-family:arial;
+    font-weight:normal;
+    padding:0 10px;
+    margin:0px;
+    line-height:30px; /* according to your requirement */
+    display:block;
+   }
+  ul.geosuggest__suggests li:hover,
+  ul.geosuggest__suggests li a:hover{
+    background-color:#ccc;
+    color:#000;
+    text-decoration:normal;
+   }
+  ul.geosuggest__suggests li:hover .suggested_input{
+    background-color:#FAFFBD;
+    border:1px solid #3C8DBC;
+   }
+   .suggested_input:hover .suggestions{
+   display:block;
+   }
